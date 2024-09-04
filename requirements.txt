@@ -1,0 +1,15 @@
+tensorflow
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+lime==0.2.0.1
+opencv-python==4.5.3.56
+requests
+flask
+fastapi
+streamlit
+pillow
+scipy
+tf-keras-vis
